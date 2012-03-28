@@ -32,7 +32,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Geo::IP" : 0,
+            "Geo::IP" : "1.39",
             "Plack" : 0,
             "Test::More" : 0
          }
@@ -50,5 +50,5 @@
          "url" : "https://github.com/sherwind/Plack-Middleware-GeoIP.git"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }

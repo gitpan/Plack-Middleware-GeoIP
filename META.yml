@@ -18,11 +18,11 @@ no_index:
     - t
     - inc
 requires:
-  Geo::IP: 0
+  Geo::IP: 1.39
   Plack: 0
   Test::More: 0
 resources:
   bugtracker: https://github.com/sherwind/Plack-Middleware-GeoIP/issues
   license: http://dev.perl.org/licenses/
   repository: https://github.com/sherwind/Plack-Middleware-GeoIP.git
-version: 0.02
+version: 0.03
